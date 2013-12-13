@@ -1,0 +1,11 @@
+{
+  "name": "node-metainspector",
+  "description": "Node-MetaInspector - Npm package for web scraping purposes. You give it an URL, and it lets you easily get its title, links, images, description, keywords, meta tags",
+  "homepage": "https://github.com/electricjesus/meteor-metainspector/",
+  "author": "Gabriel Cebrian <github.com/gabceb>, Seth Malaki <seth.malaki@gmail.com>",
+  "version": "0.0.1",
+  "git": "https://github.com/electricjesus/meteor-metainspector.git",
+  "packages": {}
+}
+
+
